@@ -1,7 +1,7 @@
 import requests
 
 # Задайте свой API-ключ от Mapbox
-api_key = 'pk.eyJ1Ijoia2Vrc2luZyIsImEiOiJjbGU0czV1MnkwNXliM29vN2s5NnlsbzVwIn0.oymQxZFX2sKAXN1I77wA4Q'
+api_key = ""
 
 # Задайте адрес, который нужно преобразовать
 address = 'Москва, Красная площадь'
@@ -22,6 +22,3 @@ def getCoords(address):
     return latitude, longitude
 
 
-
-
-# print(f'Координаты адреса "{address}": {latitude}, {longitude}')
