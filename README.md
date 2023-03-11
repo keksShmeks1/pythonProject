@@ -1,5 +1,3 @@
-# pythonProject
-Description here
 ## Описание проекта
 
 ### Постановка задачи
